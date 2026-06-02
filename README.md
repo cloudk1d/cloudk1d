@@ -3,8 +3,19 @@
 PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/01/2026 18:23 UTC
+```text
+💬 Programming Languages: 
+Edge                     4 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
+TypeScript               4 hrs 8 mins        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+Markdown                 2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
+Python                   1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+YAML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+```
+
+
+ Last Updated on 06/02/2026 00:38 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
