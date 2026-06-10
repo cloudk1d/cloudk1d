@@ -3,8 +3,19 @@
 PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 06/10/2026 00:37 UTC
+```text
+💬 Programming Languages: 
+Python                   1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.63 % 
+Terraform                47 mins             █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
+YAML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.92 % 
+Markdown                 26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+gitignore                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+```
+
+
+ Last Updated on 06/10/2026 13:04 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
