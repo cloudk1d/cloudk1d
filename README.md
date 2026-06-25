@@ -3,19 +3,19 @@
 PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   43.13 % 
-YAML                     2 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   34.38 % 
-Other                    33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
-TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Markdown                 2 hrs 37 mins       ██████████████████░░░░░░░   72.26 % 
+Other                    16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+TypeScript               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+env                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
 ```
 
 
- Last Updated on 06/24/2026 12:40 UTC
+ Last Updated on 06/25/2026 00:34 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
