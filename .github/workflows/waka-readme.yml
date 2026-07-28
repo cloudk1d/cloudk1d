@@ -3,7 +3,7 @@ name: Waka Readme
 on:
   workflow_dispatch: # for manual workflow trigger
   schedule:
-    - cron: '0 */12 * * *' # runs every 12 hours
+    - cron: "0 */12 * * *" # runs every 12 hours
 
 jobs:
   update-readme:
@@ -16,7 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_COMMIT: "False"
           SHOW_DAYS_OF_WEEK: "False"
-          SHOW_PROFILE_VIEWS: "False"
+          SHOW_PROFILE_VIEWS: "True"
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE: "True"
@@ -29,6 +29,8 @@ jobs:
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_AI_CODING: "False"
           IGNORED_REPOS: "electron, Stock"
           # following flags are required, only if this is not on
           # profile readme, remove the leading `#` to use them
@@ -50,5 +52,5 @@ jobs:
           echo "${file//This Week I Spent My Time On/This week\'s stack..}" > README.md
       - name: push
         uses: actions-js/push@v1.4
-        with: 
+        with:
           github_token: ${{ secrets.GH_TOKEN }}
