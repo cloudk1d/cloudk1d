@@ -5,7 +5,7 @@ PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-93%20hrs%2049%20mins-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week's stack..** 
 
 ```text
 💬 Programming Languages: 
