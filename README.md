@@ -5,7 +5,7 @@ PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-📊 **This Week I Spent My Time On** 
+📊 **This week's stack..** 
 
 ```text
 💬 Programming Languages: 
