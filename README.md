@@ -3,19 +3,19 @@
 PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-YAML                     2 hrs 56 mins       ████████████░░░░░░░░░░░░░   48.31 % 
-Terraform                1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   24.96 % 
-Terraform Template       28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Markdown                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+YAML                     2 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   33.30 % 
+Terraform                2 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Markdown                 1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+PowerShell               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Terraform Template       28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
 
 
- Last Updated on 10/21/2026 12:07 UTC
+ Last Updated on 10/22/2026 00:12 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
