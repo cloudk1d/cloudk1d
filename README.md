@@ -3,19 +3,19 @@
 PGP pubkey: `A2E43AA177B7E36A05F23DF6A25B26834BB1E43F`
 
 <!--START_SECTION:waka-->
-📊 **This week's stack..** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Python                   4 hrs 56 mins       ████████░░░░░░░░░░░░░░░░░   32.12 % 
-TOML                     3 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Markdown                 2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-PHP                      1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-YAML                     1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Markdown                 2 hrs 51 mins       ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
+Python                   1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+YAML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+TOML                     1 hr 33 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+PHP                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
 ```
 
 
- Last Updated on 10/31/2026 12:03 UTC
+ Last Updated on 11/01/2026 00:09 UTC
 <!--END_SECTION:waka-->
 
 ##### What I'm Listening to...
